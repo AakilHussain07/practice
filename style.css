@@ -60,7 +60,6 @@ body {
     margin-top: 10px;
     padding-left: 50px;
     color: #95e5e8;
-    font-family: 'Fraunces', serif;
 }
 
 .bon {
@@ -73,6 +72,10 @@ body {
     border: none;
     cursor: pointer;
     color: #effd99;
+}
+
+button:hover {
+    color:#9eb82a ;
 }
 
 .dip {
@@ -90,7 +93,6 @@ body {
     margin-top: 20px;
     margin-left: 50px;
     color: #95e5e8;
-    font-family: 'Fraunces', serif;
 }
 
 .box1 {
